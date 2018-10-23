@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "6883KSJ62E.nl.rabobank.deeplink.poc",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
